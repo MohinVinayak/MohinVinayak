@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mohin Vinayak</h1>
 <h3 align="center">A developer building interesting projects</h3>
 
--  I'm currently working on **[Arbiter - An LLM Evaluation Platform](https://github.com/MohinVinayak/Arbiter)**
+-  Highlighted Projects: **[Arbiter](https://github.com/MohinVinayak/Arbiter)** | **[Code Dog](https://github.com/MohinVinayak/Code-Dog)** | **[LoserChess](https://github.com/MohinVinayak/LoserChess/)**
 -  I'm looking to collaborate on **open source projects**
 -  How to reach me: **mohinvinayak@gmail.com**
 -  Know about my experiences: **[My Resume](https://drive.google.com/file/d/1plSwHY2qRXBLSGHDIMov4OSq9H9gXlls/view?usp=sharing)**

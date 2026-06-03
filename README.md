@@ -2,7 +2,7 @@
 <h3 align="center">A developer building interesting projects</h3>
 
 -  Highlighted Projects: **[Arbiter](https://github.com/MohinVinayak/Arbiter)** | **[Code Dog](https://github.com/MohinVinayak/Code-Dog)** | **[LoserChess](https://github.com/MohinVinayak/LoserChess/)**
--  I'm looking to collaborate on **open source projects**
+-  I'm looking to **explore new opportunities**
 -  How to reach me: **mohinvinayak@gmail.com**
 -  Know about my experiences: **[My Resume](https://drive.google.com/file/d/1plSwHY2qRXBLSGHDIMov4OSq9H9gXlls/view?usp=sharing)**
 

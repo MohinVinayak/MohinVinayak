@@ -9,6 +9,7 @@
 
 ### Connect with me:
 <a href="https://github.com/MohinVinayak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github"></a>
+<a href="https://linkedin.com/in/mohin-vinayak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"></a>
 
 ### Languages and Tools:
 <img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,css,django,docker,flask,git,html,java,js,jenkins,kubernetes,linux,matlab,mongodb,mysql,nginx,nodejs,postgres,py,react,scikitlearn,selenium,vscode" />

@@ -5,7 +5,7 @@
 -  Portfolio Website: **[pf2-q223-kl8rvuahm-mohinvinayak-3707s-projects.vercel.app](https://pf2-q223-kl8rvuahm-mohinvinayak-3707s-projects.vercel.app/)**
 -  I'm looking to **explore new opportunities**
 -  How to reach me: **mohinvinayak@gmail.com**
--  Know about my experiences: **[My Resume](https://drive.google.com/file/d/1plSwHY2qRXBLSGHDIMov4OSq9H9gXlls/view?usp=sharing)**
+-  Know about my experiences: **[My Resume](https://drive.google.com/file/d/1nWcmCOUHqPJV2aUcYr_qCmYVSX6Kchve/view?usp=drive_link)**
 
 ### Connect with me:
 <a href="https://github.com/MohinVinayak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>&nbsp;<a href="https://www.linkedin.com/in/mohin-vinayak/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;<a href="https://leetcode.com/u/MohinVinayak/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
